@@ -1,10 +1,4 @@
 
-/* Aim: WAP to find the length of a string without using library function.
-Name:Mahto Nitesh Khemnarayan
-UIN: 241A044
-Roll no: 36
-DIV: A
-Branch: AI & DS */
 #include<stdio.h>
 int main(){
 char str[100];
